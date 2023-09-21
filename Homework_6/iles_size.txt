@@ -1,0 +1,5 @@
+iles_size.txt: 0 bytes
+test_file.csv: 261 bytes
+Task2.py: 735 bytes
+Task1.py: 217 bytes
+salaries_uah.csv: 0 bytes
